@@ -1,6 +1,0 @@
-color=[black,white]
-if color==white:
-return looking handsome
-else:
-     return not handsome
-
